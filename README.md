@@ -1,6 +1,6 @@
-# Movie Finder
+# Movie Finder React
 
-A **ReactJS web application** to search movies, view their details, and save favorites. It features a **high-resolution hero carousel**, dynamic search, and interactive movie cards.  
+A **ReactJS web application** to search movies, view details, and save favorites. It features a **high-resolution hero carousel**, dynamic search, and interactive movie cards.
 
 ---
 
@@ -12,24 +12,23 @@ A **ReactJS web application** to search movies, view their details, and save fav
 - **Hero Carousel:** High-resolution rotating posters of popular movies.
 - **Responsive Design:** Works on desktop and mobile devices.
 - **Gradient Background:** Modern and visually appealing UI.
-- **Error Handling:** Displays user-friendly messages if movies are not found.
+- **Error Handling:** Displays messages if movies are not found.
 
 ---
 
-## 🛠 Technology Stack
+## 🖼 Screenshots
 
-- **Frontend:** ReactJS (with Hooks)  
-- **Routing:** react-router-dom  
-- **HTTP Requests:** Axios  
-- **Carousel:** react-slick & slick-carousel  
-- **Styling:** CSS with gradient background  
+### Home Page
+![Movie Finder Home Page](https://github.com/GayatriSutar2004/MovieFinder_React/raw/main/Screenshot%202025-09-21%20103225.png)
+
+### Movie Details Page
+![Movie Details Page](https://github.com/GayatriSutar2004/MovieFinder_React/raw/main/Screenshot%202025-09-21%20103455.png)
+
+### Favorites Page
+![Favorites Page](https://github.com/GayatriSutar2004/MovieFinder_React/raw/main/Screenshot%202025-09-21%20103504.png)
 
 ---
 
-## ⚡ Installation
+## 📝 Author
 
-1. **Clone the repository:**
-
-```bash
-git clone <your-repo-url>
-cd MovieHouse
+**Gayatri Sutar** – College Project | ReactJS Microproject
